@@ -2,7 +2,7 @@
 Repository for the data required for testing different UQit methods
 
 ## Requirements:
-Install (git-lfs)[https://git-lfs.github.com/].
+Install [git-lfs.](https://git-lfs.github.com/)
 
 ## Included Data:
 
